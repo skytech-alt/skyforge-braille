@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-braille"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Текст в шрифт Брайля (латиница)."
+    репозиторий = "github.com/skytech-alt/skyforge-braille"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
